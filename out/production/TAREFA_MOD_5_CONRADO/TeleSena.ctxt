@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TeleSena
+comment0.text=\r\n\ Classe\ que\ representa\ uma\ cartela\ da\ tele\ sena\r\n\ \r\n\ @author\ (Conrado\ Maia\ Heckler)\ \r\n
+comment1.params=
+comment1.target=TeleSena()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ TeleSena\r\n
+comment2.params=
+comment2.target=int[]\ criarTeleSena()
+comment2.text=\r\n\ Um\ exemplo\ de\ um\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\ pr\u00F3prio\r\n\ \r\n\ @param\ \ y\ \ \ um\ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ a\ soma\ de\ x\ e\ y\ \r\n
+comment3.params=
+comment3.target=int[]\ getConjunto1()
+comment4.params=
+comment4.target=int[]\ getConjunto2()
+comment5.params=
+comment5.target=int\ getAcertosConjunto1()
+comment6.params=
+comment6.target=int\ getAcertosConjunto2()
+comment7.params=
+comment7.target=void\ setAcertoConjunto1()
+comment8.params=
+comment8.target=void\ setAcertoConjunto2()
+comment9.params=numeros\ numero
+comment9.target=boolean\ existeNumero(int[],\ int)
+comment9.text=\r\n\ Verfica\ se\ o\ numero\ indicado\ existe\ no\ array\ de\ entrada.\r\n\ \r\n\ @param\ \ numero\ \ \ inteiro\ que\ ser\u00E1\ procurado\ no\ array.\r\n\ @param\ \ numeros\ \ \ array\ de\ inteiros\ que\ ser\u00E1\ varrido\r\n\ @return\ \ \ \ \ true\ se\ encontrar\ o\ numero\ no\ array\r\n
+numComments=10
